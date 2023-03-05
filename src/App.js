@@ -10,7 +10,7 @@ export default class App extends Component {
     super();
     this.state = {
       direction: "top",
-      content: "Hover Content",
+      content: "Tooltip Content",
     };
   }
 
@@ -23,7 +23,7 @@ export default class App extends Component {
       });
     } else {
       this.setState({
-        content: "Hover Content",
+        content: "Tooltip Content",
       });
     }
   };

@@ -34,7 +34,7 @@
   /* css for positioning tooltip at top */
   .t-top{
     top: -110%;
-    left: 0;
+    left: 7%;
     /* width: max-content!important; */
   }
   .t-top::after{
