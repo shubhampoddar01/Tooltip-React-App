@@ -1,3 +1,7 @@
+#Tooltip
+
+A simple tooltip component such that whenever we hover the button, it will show the tooltip content.
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
